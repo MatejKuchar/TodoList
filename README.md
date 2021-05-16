@@ -1,4 +1,4 @@
-# Zadanie
+# React - Todo List
 
 1. Spustíme príkazový riadok s príkazom `npm install`.
 4. Po nainštalovaní všetkých závislosti spustíme príkaz `npm run startServer` a `npm run start`
